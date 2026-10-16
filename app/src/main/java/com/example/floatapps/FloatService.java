@@ -68,7 +68,7 @@ public class FloatService extends Service {
             case FloatWindow.T_FB: return "Facebook Lite";
             case FloatWindow.T_YT: return "YouTube";
             case FloatWindow.T_X: return "X";
-            case FloatWindow.T_DY: return "Douyin (抖音)";
+            case FloatWindow.T_IG: return "Instagram";
             case FloatWindow.T_WEB: return "เบราว์เซอร์";
             case FloatWindow.T_TR: return "แปล";
             case FloatWindow.T_EDIT: return "โปรแกรมแก้ไข";

@@ -45,9 +45,9 @@ public class MainActivity extends Activity {
 
         String[][] items = {
                 {FloatWindow.T_FB, "Facebook Lite"},
+                {FloatWindow.T_IG, "Instagram"},
                 {FloatWindow.T_YT, "YouTube"},
                 {FloatWindow.T_X, "X"},
-                {FloatWindow.T_DY, "Douyin (抖音)"},
                 {FloatWindow.T_WEB, "เบราว์เซอร์"},
                 {FloatWindow.T_TR, "แปล"},
                 {FloatWindow.T_EDIT, "โปรแกรมแก้ไข"},
